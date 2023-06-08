@@ -1,0 +1,13 @@
+20230607	11:40:08	69baa0a1-a14b-4d92-80f8-fa20a3be7506	GET	undefined	/new-page
+20230607	11:42:05	537b2e39-bf55-4c61-98ee-3b7e2355db89	GET	undefined	/new-pagekTReferenceError
+20230607	11:42:05	2a5e896f-8409-4766-8cab-bc087d078008	GET	undefined	/css/style.cssTReferenceError
+20230607	11:42:06	77addd54-19d7-49c4-a255-9351b2d639fe	GET	undefined	/new-pagekTReferenceError
+20230607	11:42:06	f1e48b28-27c5-4d65-9dd3-6dd0eb38dee7	GET	undefined	/css/style.cssTReferenceError
+20230607	11:42:11	fda9ae11-c1ed-4a87-8209-05056071a95f	GET	undefined	/new-pagekTReferenceError
+20230607	11:42:11	e7620cab-4026-4ba4-abdf-bf5c9c4fede2	GET	undefined	/css/style.cssTReferenceError
+20230607	11:42:14	d1a68c82-5f3f-4718-9f42-e47b7571e6d8	GET	undefined	/new-pageTReferenceError
+20230607	11:42:14	8586bd15-1eda-4c40-b754-ba5f03c83492	GET	undefined	/css/style.cssTReferenceError
+20230607	11:42:14	90a25985-7447-4cb8-8f94-9123443d2ad2	GET	undefined	/img/img1.jpgTReferenceError
+20230607	11:43:38	cab09529-530b-45ed-a317-6d0497a017ef	GET	undefined	/new-page	ReferenceError
+20230607	11:43:38	7c59ae2d-a235-4a19-b362-f3fccfa42ab2	GET	undefined	/css/style.css	ReferenceError
+20230607	11:43:38	29d764ad-4fd9-4259-b1f5-bbd57ada6cb7	GET	undefined	/img/img1.jpg	ReferenceError
